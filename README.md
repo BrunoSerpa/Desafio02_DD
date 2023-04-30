@@ -76,12 +76,10 @@ Os desafios a seguir foram baseados no [Repositório](https://github.com/prof-fa
 
   5º Passo: Acesse o projeto com o comando:
 
-  `flask run`
-  >Isso executará o `app.py` e será possível ver o site funcionando.
+  `flask --app controller run`
+  >Isso executará o `controller.py` e será possível ver o site funcionando.
 
-  6ºPasso: Após realizar o comando flask run, clique no link que ele te dará no cmd, ou então simplesmente acesse este:
-  
-  <a href="http://127.0.0.1:5000">http://127.0.0.1:5000</a>
+  6ºPasso: Execute o arquivo `form.html` em seu navegador padrão. (encontrado em `src/Interação do Flask com o Forms`)
 
   7º Quando finalzar o comando para finalizar o ambiente é:
 
