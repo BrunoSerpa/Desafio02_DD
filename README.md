@@ -15,12 +15,12 @@ Os desafios a seguir foram baseados no [Repositório](https://github.com/prof-fa
 <details>
   <summary><b>Vídeo "Renderização"</b></summary>
 
- ![print_desafioRenderizacão]()
+ ![print_desafioRenderizacão](https://github.com/BrunoSerpa/Desafio02_DD/blob/main/Doc/Renderizando.gif?raw=true)
 </details>
 <details>
   <summary><b>Vídeo "Forms"</b></summary>
   
- ![print_desafioInteraçãoDoFlaskComOForms]()
+ ![print_desafioInteraçãoDoFlaskComOForms](https://github.com/BrunoSerpa/Desafio02_DD/blob/main/Doc/Forms.gif?raw=true)
 </details>
 
 
@@ -41,7 +41,7 @@ Os desafios a seguir foram baseados no [Repositório](https://github.com/prof-fa
 
   2º Passo: Entre na pasta criada e clique no diretório na parte superior e digite cmd:
 
-  ![print_diretório]()
+  ![print_diretório](https://github.com/BrunoSerpa/Desafio02_DD/blob/main/Doc/Passo2.PNG?raw=true)
 
   3º Passo: Dentro do cmd insira o comando:
  
