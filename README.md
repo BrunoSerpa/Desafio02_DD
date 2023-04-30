@@ -31,7 +31,9 @@ Os desafios a seguir foram baseados no [Repositório](https://github.com/prof-fa
 <details>
   <summary><b>O que será necessário:</b></summary>
 
-  <a href="https://git-scm.com/downloads">Git</a> Será necessário o git para fazer uma clonagem do repositório.
+  - <a href="https://git-scm.com/downloads">Git</a> Será necessário o git para fazer uma clonagem do repositório.
+  
+  - <a href="https://www.python.org/downloads">Python</a> Utilizei a versão 3.11.2, mas qualquer uma a partir da 3.7 irá funcionar, não se esqueça de na hora da instalação, marcar a opção da instalação do pip, pois será necessário para rodar o ambiente virtual.
 </details>
 
 <details>
