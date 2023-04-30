@@ -1,0 +1,45 @@
+*{margin: auto;}
+body{display: flex;}
+h1{
+        font: 300 40px "lucida-sans";
+        text-align: center;
+}
+h2{
+        font: 300 30px "lucida-sans";
+        text-align: center;
+}
+@media (max-width: 550px){
+        h1{font-size: 25px;}
+        h2{color: aqua; font-size: 40px;}
+        .Outono{display: none}
+        .Verao{display: none}
+        .Primavera{display: none}
+}
+@media (min-width: 551px) and (max-width: 700px){
+        h1{font-size: 30px;}
+        h2{color: orangered;  font-size: 45px;}
+        .Inverno{display: none}
+        .Verao{display: none}
+        .Primavera{display: none}
+}
+@media (min-width: 701px) and (max-width: 850px){
+        h1{font-size: 35px;}
+        h2{color: yellow;  font-size: 50px;}
+        .Inverno{display: none}
+        .Outono{display: none}
+        .Primavera{display: none}
+}
+@media (min-width: 851px){
+        h1{font-size: 30px;}
+        h2{color: green;font-size: 55px;}
+        .Inverno{display: none}
+        .Outono{display: none}
+        .Verao{display: none}
+}
+.leftRigth{
+     flex: 1;
+}
+.center{
+     flex: 2;
+}
+img{width: 100%;}
